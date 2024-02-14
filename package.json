@@ -2,10 +2,10 @@
   "name": "werun-nodejs",
   "version": "1.0.0",
   "description": "Simple example in Node",
-  "main": "lib/app.js",
+  "main": "lib/index.js",
   "type": "module",
   "scripts": {
-    "start": "node lib/app.js"
+    "start": "node lib/index.js"
   },
   "author": "",
   "license": "Apache-2.0",
